@@ -62,4 +62,15 @@ body {
     display: flex;
     flex-direction: column;
 }
-
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, purple);
+    padding: 2px 40px;
+    color: ghostwhite;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+    margin-right: 35%;
+    margin-left: 45%;
+}
